@@ -4,14 +4,14 @@
     "a:\\Trabalho_Estudos\\SENAI\\Projetos e C#\\Testes\\CalculadoraFrete\\CalculadoraFrete.Tests\\CalculadoraFrete.Tests.csproj": {}
   },
   "projects": {
-    "a:\\Trabalho_Estudos\\SENAI\\Projetos e C#\\Testes\\CalculadoraFrete\\CalculadoraFrete.App\\CalculadoraFrete.App.csproj": {
+    "A:\\Trabalho_Estudos\\SENAI\\Projetos e C#\\Testes\\CalculadoraFrete\\CalculadoraFrete.App\\CalculadoraFrete.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "a:\\Trabalho_Estudos\\SENAI\\Projetos e C#\\Testes\\CalculadoraFrete\\CalculadoraFrete.App\\CalculadoraFrete.App.csproj",
+        "projectUniqueName": "A:\\Trabalho_Estudos\\SENAI\\Projetos e C#\\Testes\\CalculadoraFrete\\CalculadoraFrete.App\\CalculadoraFrete.App.csproj",
         "projectName": "CalculadoraFrete.App",
-        "projectPath": "a:\\Trabalho_Estudos\\SENAI\\Projetos e C#\\Testes\\CalculadoraFrete\\CalculadoraFrete.App\\CalculadoraFrete.App.csproj",
+        "projectPath": "A:\\Trabalho_Estudos\\SENAI\\Projetos e C#\\Testes\\CalculadoraFrete\\CalculadoraFrete.App\\CalculadoraFrete.App.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "a:\\Trabalho_Estudos\\SENAI\\Projetos e C#\\Testes\\CalculadoraFrete\\CalculadoraFrete.App\\obj\\",
+        "outputPath": "A:\\Trabalho_Estudos\\SENAI\\Projetos e C#\\Testes\\CalculadoraFrete\\CalculadoraFrete.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -374,8 +374,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "a:\\Trabalho_Estudos\\SENAI\\Projetos e C#\\Testes\\CalculadoraFrete\\CalculadoraFrete.App\\CalculadoraFrete.App.csproj": {
-                "projectPath": "a:\\Trabalho_Estudos\\SENAI\\Projetos e C#\\Testes\\CalculadoraFrete\\CalculadoraFrete.App\\CalculadoraFrete.App.csproj"
+              "A:\\Trabalho_Estudos\\SENAI\\Projetos e C#\\Testes\\CalculadoraFrete\\CalculadoraFrete.App\\CalculadoraFrete.App.csproj": {
+                "projectPath": "A:\\Trabalho_Estudos\\SENAI\\Projetos e C#\\Testes\\CalculadoraFrete\\CalculadoraFrete.App\\CalculadoraFrete.App.csproj"
               }
             }
           }
