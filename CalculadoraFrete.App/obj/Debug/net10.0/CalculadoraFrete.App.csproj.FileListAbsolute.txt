@@ -1,0 +1,15 @@
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraFrete\CalculadoraFrete.App\bin\Debug\net10.0\CalculadoraFrete.App.exe
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraFrete\CalculadoraFrete.App\bin\Debug\net10.0\CalculadoraFrete.App.deps.json
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraFrete\CalculadoraFrete.App\bin\Debug\net10.0\CalculadoraFrete.App.runtimeconfig.json
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraFrete\CalculadoraFrete.App\bin\Debug\net10.0\CalculadoraFrete.App.dll
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraFrete\CalculadoraFrete.App\bin\Debug\net10.0\CalculadoraFrete.App.pdb
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.GeneratedMSBuildEditorConfig.editorconfig
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.AssemblyInfoInputs.cache
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.AssemblyInfo.cs
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.csproj.CoreCompileInputs.cache
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.sourcelink.json
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.dll
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\refint\CalculadoraFrete.App.dll
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.pdb
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\CalculadoraFrete.App.genruntimeconfig.cache
+A:\Trabalho_Estudos\SENAI\Projetos e C#\Testes\CalculadoraFrete\CalculadoraFrete.App\obj\Debug\net10.0\ref\CalculadoraFrete.App.dll
